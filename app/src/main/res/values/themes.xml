@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Invex" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.Invex.Splash" parent="Theme.SplashScreen">
+        <!-- Set your splash background color -->
+        <item name="windowSplashScreenBackground">@color/white</item>
+
+        <!-- Set your splash icon -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo</item>
+
+        <!-- Time the splash stays (optional) -->
+        <item name="windowSplashScreenAnimationDuration">1000</item>
+
+        <!-- Force the splash full screen -->
+        <item name="postSplashScreenTheme">@style/Theme.Invex</item>
+    </style>
+
+</resources>

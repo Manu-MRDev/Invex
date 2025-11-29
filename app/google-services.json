@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "687416771542",
+    "project_id": "invex-a069a",
+    "storage_bucket": "invex-a069a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687416771542:android:77a25977a29141b3d2da77",
+        "android_client_info": {
+          "package_name": "mx.com.virtualhand.invex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687416771542-etj905b11drrerguom4ccvjsfvuq4vh5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.com.virtualhand.invex",
+            "certificate_hash": "861d1a3c9dc5f0bf48e3d472f5df69f437fba987"
+          }
+        },
+        {
+          "client_id": "687416771542-4ircejvb8dplgua0pkcqd3dpgqqgh3dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi2DX1q-UIaBky3p3AkTDAM_44NVdR9co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687416771542-4ircejvb8dplgua0pkcqd3dpgqqgh3dt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

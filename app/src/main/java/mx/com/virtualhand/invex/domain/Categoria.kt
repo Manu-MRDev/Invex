@@ -1,0 +1,7 @@
+package mx.com.virtualhand.invex.domain
+
+data class Categoria(
+    val id: String = "",
+    val nombre: String = "",
+    val descripcion: String = ""
+)
