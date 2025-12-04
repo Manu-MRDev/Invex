@@ -70,7 +70,7 @@ fun MainScreen(
             AlertDialog(
                 onDismissRequest = { showInfoDialog = false },
                 title = { Text("Información") },
-                text = { Text("Desarrollado por: German Ramirez Martinez" +
+                text = { Text("Desarrollado por: Ariadna Yaeli Angeles Zuñiga" +
                         "Version: 1.0 " +
                         "UPP") }, // 🔹 tu nombre
                 confirmButton = {
